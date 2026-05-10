@@ -1,0 +1,17 @@
+*{
+    width: 0;
+    height: 0;
+}
+button{
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+    width: 500px;
+    height: 300px;
+    background-color: rgb(128, 128, 128);
+color: white;
+}
+button:hover{
+background-color: rgb(57, 79, 246);
+}
